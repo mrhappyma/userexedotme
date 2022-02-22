@@ -1,5 +1,7 @@
 baseurl = "https://userexe.me"
 title = "Dominic Ruggiero"
+info = "human being trying to learn back-end development"
+description = "Dominic Ruggiero's *fun* website"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
