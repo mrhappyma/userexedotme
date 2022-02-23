@@ -6,11 +6,20 @@
     <description>Recent content in Posts on user.exe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Dec 2021 22:50:26 +0000</lastBuildDate><atom:link href="https://userexe.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://userexe.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://userexe.me/posts/about-me/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://userexe.me/posts/about-me/</guid>
+      <description>This post will be updated with fun informational information at some point in the future.</description>
+    </item>
+    
     <item>
       <title>Hello</title>
       <link>https://userexe.me/posts/hello/</link>
-      <pubDate>Wed, 01 Dec 2021 22:50:26 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://userexe.me/posts/hello/</guid>
       <description>oh hi</description>

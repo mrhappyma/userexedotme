@@ -12,7 +12,7 @@ defaultcontentlanguage = "en"
 
 [params]
   author = "Dominic Ruggiero"
-  info = "homo sapien (attempting) learning back-end development"
+  info = "homo sapien (attempting) learning development"
   description = "Dominic's *fun* personal website"
   keywords = "blog,developer,personal"
 #  avatarurl = "images/avatar.jpg"

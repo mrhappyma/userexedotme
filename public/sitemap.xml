@@ -2,27 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://userexe.me/tags/do-tags-work/</loc>
-    <lastmod>2021-12-01T22:50:26+00:00</lastmod>
-  </url><url>
-    <loc>https://userexe.me/tags/hello/</loc>
-    <lastmod>2021-12-01T22:50:26+00:00</lastmod>
-  </url><url>
-    <loc>https://userexe.me/posts/hello/</loc>
-    <lastmod>2021-12-01T22:50:26+00:00</lastmod>
-  </url><url>
-    <loc>https://userexe.me/tags/hi/</loc>
-    <lastmod>2021-12-01T22:50:26+00:00</lastmod>
+    <loc>https://userexe.me/posts/about-me/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://userexe.me/posts/</loc>
-    <lastmod>2021-12-01T22:50:26+00:00</lastmod>
-  </url><url>
-    <loc>https://userexe.me/tags/</loc>
-    <lastmod>2021-12-01T22:50:26+00:00</lastmod>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://userexe.me/</loc>
-    <lastmod>2021-12-01T22:50:26+00:00</lastmod>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://userexe.me/posts/hello/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://userexe.me/categories/</loc>
+  </url><url>
+    <loc>https://userexe.me/tags/</loc>
   </url>
 </urlset>
