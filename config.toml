@@ -48,4 +48,4 @@ defaultcontentlanguage = "en"
 [[menu.main]]
   name = "About"
   weight = 2
-  url = "about/"
+  url = "posts/about-me"
