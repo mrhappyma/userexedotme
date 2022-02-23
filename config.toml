@@ -49,3 +49,6 @@ defaultcontentlanguage = "en"
   name = "About"
   weight = 2
   url = "posts/about-me"
+  
+[params.goatCounter]
+  code = "userexe"
