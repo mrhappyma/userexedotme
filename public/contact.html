@@ -1,4 +1,4 @@
-<form name="contact" class="contact-form width-normal" action="/thank-you/" method="POST" data-netlify="true">
+<form name="contact" class="contact-form width-normal" action="/thank-you/" method="POST" data-netlify="true" data-netlify-recaptcha="true">
     <input type="hidden" name="form-name" value="contact" />
     <!-- Text input-->
     <div class="form-group">
@@ -26,6 +26,9 @@
         <label class="col-md-4 control-label" for=""></label>
         <textarea class="form-control" id="contact-form-message" name="Message" placeholder="What's up?" rows="8"></textarea>
     </div>
+  <!-- capthca -->
+    <div data-netlify-recaptcha="true"></div>
+
     <!-- Button -->
     <div class="form-group">
         <button type="submit" value="Submit" id="Form-submit">Submit</button>
