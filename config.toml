@@ -49,9 +49,10 @@ defaultcontentlanguage = "en"
   name = "About"
   weight = 2
   url = "posts/about-me"
+[[menu.main]]
+  name = "Contact"
+  weight = 3
+  url = "posts/contact"
   
 [params.goatCounter]
   code = "userexe"
-
-# Enable html support inside markdown
-[markup]
