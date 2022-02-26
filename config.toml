@@ -52,3 +52,6 @@ defaultcontentlanguage = "en"
   
 [params.goatCounter]
   code = "userexe"
+
+# Enable html support inside markdown
+[markup]

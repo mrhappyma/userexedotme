@@ -6,7 +6,16 @@
     <description>Recent content in Posts on user.exe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://userexe.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://userexe.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://userexe.me/posts/contact/</link>
+      <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://userexe.me/posts/contact/</guid>
+      <description>&amp;lt;!-- Button --&amp;gt; &amp;lt;div class=&amp;quot;form-group&amp;quot;&amp;gt; &amp;lt;button type=&amp;quot;submit&amp;quot; value=&amp;quot;Submit&amp;quot; id=&amp;quot;Form-submit&amp;quot;&amp;gt;Submit&amp;lt;/button&amp;gt; &amp;lt;/div&amp;gt;  </description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>https://userexe.me/posts/about-me/</link>
