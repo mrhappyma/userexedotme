@@ -48,11 +48,11 @@ defaultcontentlanguage = "en"
 [[menu.main]]
   name = "About"
   weight = 2
-  url = "posts/about-me"
+  url = "about-me/"
 [[menu.main]]
   name = "Contact"
   weight = 3
-  url = "posts/contact"
+  url = "contact/"
   
 [params.goatCounter]
   code = "userexe"
