@@ -1,32 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>user.exe</title>
-    <link>https://userexe.me/</link>
-    <description>Recent content on user.exe</description>
+    <title>Performence-tests on user.exe</title>
+    <link>https://userexe.me/performence-tests/</link>
+    <description>Recent content in Performence-tests on user.exe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://userexe.me/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Initial Performence Tests</title>
-      <link>https://userexe.me/posts/initial-lighthouse-tests/</link>
-      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://userexe.me/posts/initial-lighthouse-tests/</guid>
-      <description>Took some performence tests from Google&amp;rsquo;s &amp;ldquo;Lighthouse&amp;rdquo; and thought I would share them in the first sorta actual post on this site.
-Mobile: click me
-Desktop: click me too</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>https://userexe.me/posts/hello/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://userexe.me/posts/hello/</guid>
-      <description>oh hi</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://userexe.me/performence-tests/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://userexe.me/performence-tests/lighthouse/desktop/20220227/</link>
@@ -43,24 +22,6 @@ Desktop: click me too</description>
       
       <guid>https://userexe.me/performence-tests/lighthouse/mobile/220220227/</guid>
       <description>Lighthouse Report body {margin: 0}   Lighthouse report requires JavaScript. Please enable.  window.__LIGHTHOUSE_JSON__ = {&#34;lighthouseVersion&#34;:&#34;9.1.0&#34;,&#34;requestedUrl&#34;:&#34;http://userexe.me/&#34;,&#34;finalUrl&#34;:&#34;http://userexe.me/&#34;,&#34;fetchTime&#34;:&#34;2022-02-27T19:31:19.295Z&#34;,&#34;gatherMode&#34;:&#34;navigation&#34;,&#34;runWarnings&#34;:[],&#34;userAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;environment&#34;:{&#34;networkUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4695.0 Safari/537.36 Chrome-Lighthouse&#34;,&#34;hostUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;benchmarkIndex&#34;:1101,&#34;credits&#34;:{&#34;axe-core&#34;:&#34;4.2.3&#34;}},&#34;audits&#34;:{&#34;is-on-https&#34;:{&#34;id&#34;:&#34;is-on-https&#34;,&#34;title&#34;:&#34;Does not use HTTPS&#34;,&#34;description&#34;:&#34;All sites should be protected with HTTPS, even ones that don&#39;t handle sensitive data.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://userexe.me/about-me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://userexe.me/about-me/</guid>
-      <description>This post will be updated with fun informational information at some point in the future.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://userexe.me/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://userexe.me/contact/</guid>
-      <description>              Submit  </description>
     </item>
     
   </channel>

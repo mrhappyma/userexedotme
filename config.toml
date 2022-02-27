@@ -56,3 +56,9 @@ defaultcontentlanguage = "en"
   
 [params.goatCounter]
   code = "userexe"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
