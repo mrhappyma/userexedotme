@@ -18,19 +18,19 @@
     
     <item>
       <title>About Me</title>
-      <link>https://userexe.me/posts/about-me/</link>
+      <link>https://userexe.me/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://userexe.me/posts/about-me/</guid>
+      <guid>https://userexe.me/about-me/</guid>
       <description>This post will be updated with fun informational information at some point in the future.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://userexe.me/posts/contact/</link>
+      <link>https://userexe.me/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://userexe.me/posts/contact/</guid>
+      <guid>https://userexe.me/contact/</guid>
       <description>              Submit  </description>
     </item>
     
