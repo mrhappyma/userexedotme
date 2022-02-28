@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>this site on user.exe</title>
-    <link>https://userexe.me/tags/this-site/</link>
+    <link>https://www.userexe.me/tags/this-site/</link>
     <description>Recent content in this site on user.exe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://userexe.me/tags/this-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.userexe.me/tags/this-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Initial Performence Tests</title>
-      <link>https://userexe.me/posts/initial-lighthouse-tests/</link>
+      <title>Initial Performance Tests</title>
+      <link>https://www.userexe.me/posts/initial-lighthouse-tests/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://userexe.me/posts/initial-lighthouse-tests/</guid>
-      <description>Took some performence tests from Google&amp;rsquo;s &amp;ldquo;Lighthouse&amp;rdquo; and thought I would share them in the first sorta actual post on this site.
+      <guid>https://www.userexe.me/posts/initial-lighthouse-tests/</guid>
+      <description>Took some performance tests from Google&amp;rsquo;s &amp;ldquo;Lighthouse&amp;rdquo; and thought I would share them in the first sorta actual post on this site.
 Mobile: click me
 Desktop: click me too</description>
     </item>
