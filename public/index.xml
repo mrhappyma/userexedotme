@@ -6,7 +6,18 @@
     <description>Recent content on user.exe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.userexe.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.userexe.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sign Language is HARD</title>
+      <link>https://www.userexe.me/posts/sign-language-is-hard/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.userexe.me/posts/sign-language-is-hard/</guid>
+      <description>So for school we have to learn sign language, and it&amp;rsquo;s quite difficult. Like very. I think.
+We&amp;rsquo;re using this site called (sign school)[https://signschool.com], which tries to make it &amp;ldquo;fun&amp;rdquo; but it&amp;rsquo;s kinda disturbing. Here&amp;rsquo;s an example: click click click me
+I&amp;rsquo;m not sure what it is I just want to see if my rss feed works lol</description>
+    </item>
+    
     <item>
       <title>Initial Performance Tests</title>
       <link>https://www.userexe.me/posts/initial-lighthouse-tests/</link>
