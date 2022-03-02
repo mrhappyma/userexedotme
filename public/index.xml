@@ -14,7 +14,7 @@
       
       <guid>https://www.userexe.me/posts/sign-language-is-hard/</guid>
       <description>So for school we have to learn sign language, and it&amp;rsquo;s quite difficult. Like very. I think.
-We&amp;rsquo;re using this site called (sign school)[https://signschool.com], which tries to make it &amp;ldquo;fun&amp;rdquo; but it&amp;rsquo;s kinda disturbing. Here&amp;rsquo;s an example: click click click me
+We&amp;rsquo;re using this site called sign school, which tries to make it &amp;ldquo;fun&amp;rdquo; but it&amp;rsquo;s kinda disturbing. Here&amp;rsquo;s an example: click click click me
 I&amp;rsquo;m not sure what it is I just want to see if my rss feed works lol</description>
     </item>
     
@@ -62,7 +62,7 @@ Desktop: click me too</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/about-me/</guid>
-      <description>This post will be updated with fun informational information at some point in the future.</description>
+      <description>👋 Hi, I&amp;rsquo;m Dominic! I&amp;rsquo;m a bit of an idiot/crazy person, trying to learn development and get good grades at the same time. We&amp;rsquo;ll see how that goes.</description>
     </item>
     
     <item>
@@ -72,6 +72,15 @@ Desktop: click me too</description>
       
       <guid>https://www.userexe.me/contact/</guid>
       <description>              Submit  </description>
+    </item>
+    
+    <item>
+      <title>What I&#39;m Using</title>
+      <link>https://www.userexe.me/what-im-using/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.userexe.me/what-im-using/</guid>
+      <description>Hardware  Notebook/only computer: Acer Chromebook Spin 11 I also have an ipad 9th gen  Software  OS: Debian 11 &amp;ldquo;bookworm&amp;rdquo; DE: xfce (trying to change to gnome soon) Browser: Google Chrome Editor: VS Code Languages: just node.js for now This site (full post soon): hugo + coder + utterances + github + netlify  </description>
     </item>
     
   </channel>
