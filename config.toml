@@ -46,12 +46,16 @@ defaultcontentlanguage = "en"
   weight = 1
   url  = "posts/"
 [[menu.main]]
-  name = "About"
+  name = "Uses"
   weight = 2
+  url = "what-im-using/"
+[[menu.main]]
+  name = "About"
+  weight = 3
   url = "about-me/"
 [[menu.main]]
   name = "Contact"
-  weight = 3
+  weight = 4
   url = "contact/"
   
 [params.goatCounter]
