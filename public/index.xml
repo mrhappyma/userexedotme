@@ -11,77 +11,86 @@
       <title>Sign Language is HARD</title>
       <link>https://www.userexe.me/posts/sign-language-is-hard/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/posts/sign-language-is-hard/</guid>
       <description>So for school we have to learn sign language, and it&amp;rsquo;s quite difficult. Like very. I think.
 We&amp;rsquo;re using this site called sign school, which tries to make it &amp;ldquo;fun&amp;rdquo; but it&amp;rsquo;s kinda disturbing. Here&amp;rsquo;s an example: click click click me
 I&amp;rsquo;m not sure what it is I just want to see if my rss feed works lol</description>
     </item>
-
+    
     <item>
       <title>Initial Performance Tests</title>
       <link>https://www.userexe.me/posts/initial-lighthouse-tests/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/posts/initial-lighthouse-tests/</guid>
       <description>Took some performance tests from Google&amp;rsquo;s &amp;ldquo;Lighthouse&amp;rdquo; and thought I would share them in the first sorta actual post on this site.
 Mobile: click me
 Desktop: click me too</description>
     </item>
-
+    
     <item>
       <title>Hello</title>
       <link>https://www.userexe.me/posts/hello/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/posts/hello/</guid>
       <description>oh hi</description>
     </item>
-
+    
     <item>
       <title></title>
       <link>https://www.userexe.me/performance-tests/lighthouse/desktop/20220227/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/performance-tests/lighthouse/desktop/20220227/</guid>
       <description>Lighthouse Report body {margin: 0}   Lighthouse report requires JavaScript. Please enable.  window.__LIGHTHOUSE_JSON__ = {&#34;lighthouseVersion&#34;:&#34;9.1.0&#34;,&#34;requestedUrl&#34;:&#34;http://userexe.me/&#34;,&#34;finalUrl&#34;:&#34;http://userexe.me/&#34;,&#34;fetchTime&#34;:&#34;2022-02-27T19:31:19.295Z&#34;,&#34;gatherMode&#34;:&#34;navigation&#34;,&#34;runWarnings&#34;:[],&#34;userAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;environment&#34;:{&#34;networkUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4695.0 Safari/537.36 Chrome-Lighthouse&#34;,&#34;hostUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;benchmarkIndex&#34;:1101,&#34;credits&#34;:{&#34;axe-core&#34;:&#34;4.2.3&#34;}},&#34;audits&#34;:{&#34;is-on-https&#34;:{&#34;id&#34;:&#34;is-on-https&#34;,&#34;title&#34;:&#34;Does not use HTTPS&#34;,&#34;description&#34;:&#34;All sites should be protected with HTTPS, even ones that don&#39;t handle sensitive data.</description>
     </item>
-
+    
     <item>
       <title></title>
       <link>https://www.userexe.me/performance-tests/lighthouse/mobile/220220227/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/performance-tests/lighthouse/mobile/220220227/</guid>
       <description>Lighthouse Report body {margin: 0}   Lighthouse report requires JavaScript. Please enable.  window.__LIGHTHOUSE_JSON__ = {&#34;lighthouseVersion&#34;:&#34;9.1.0&#34;,&#34;requestedUrl&#34;:&#34;http://userexe.me/&#34;,&#34;finalUrl&#34;:&#34;http://userexe.me/&#34;,&#34;fetchTime&#34;:&#34;2022-02-27T19:31:19.295Z&#34;,&#34;gatherMode&#34;:&#34;navigation&#34;,&#34;runWarnings&#34;:[],&#34;userAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;environment&#34;:{&#34;networkUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4695.0 Safari/537.36 Chrome-Lighthouse&#34;,&#34;hostUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;benchmarkIndex&#34;:1101,&#34;credits&#34;:{&#34;axe-core&#34;:&#34;4.2.3&#34;}},&#34;audits&#34;:{&#34;is-on-https&#34;:{&#34;id&#34;:&#34;is-on-https&#34;,&#34;title&#34;:&#34;Does not use HTTPS&#34;,&#34;description&#34;:&#34;All sites should be protected with HTTPS, even ones that don&#39;t handle sensitive data.</description>
     </item>
-
+    
     <item>
       <title>About Me</title>
       <link>https://www.userexe.me/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/about-me/</guid>
       <description>👋 Hi, I&amp;rsquo;m Dominic! I&amp;rsquo;m a bit of an idiot/crazy person, trying to learn development and get good grades at the same time. We&amp;rsquo;ll see how that goes.</description>
     </item>
-
+    
     <item>
       <title>Contact</title>
       <link>https://www.userexe.me/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/contact/</guid>
       <description>              Submit  </description>
     </item>
-
+    
+    <item>
+      <title>Twitter Feed</title>
+      <link>https://www.userexe.me/twitter-feed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.userexe.me/twitter-feed/</guid>
+      <description> Tweets by user____exe </description>
+    </item>
+    
     <item>
       <title>What I&#39;m Using</title>
       <link>https://www.userexe.me/what-im-using/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/what-im-using/</guid>
       <description>Hardware  Notebook/only computer: Acer Chromebook Spin 11 I also have an ipad 9th gen  Software  OS: Debian 11 &amp;ldquo;bookworm&amp;rdquo; DE: xfce (trying to change to gnome soon) Browser: Google Chrome Editor: VS Code Languages: just node.js for now This site (full post soon): hugo + coder + utterances + github + netlify  </description>
     </item>
-
+    
   </channel>
 </rss>
