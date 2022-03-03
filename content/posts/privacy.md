@@ -19,7 +19,7 @@ So I don't use cookies, but I do use an anylitics platform called [GoatCounter](
 
 I also (sometimes, not always) collect where you're coming from with a little `?ref=something` added to the url. For example in my Discord "about me", the url is `userexe.me/?ref=discord-about-me`. When somebody visits that url, I know that they came to my site from my about me. Again, **not tied wth any other information**. I don't in any way make a profile of information about you.
 
-If you want to opt out of GoatCounter, you can just [click here](/posts/privacy/#toggle-goatcounter) (click again to enable again). **Opting out of GoatCounter, should show a confirmation alert,** if it didn't your browser or adblock is doing something weird.
+If you want to opt out of GoatCounter, you can just [click here](/index.html/#toggle-goatcounter) (click again to enable again). **Opting out of GoatCounter, should show a confirmation alert,** if it didn't your browser or adblock is doing something weird.
 
 ### 🫂 Who gets that data?
 
