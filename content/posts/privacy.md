@@ -2,6 +2,7 @@
 Title: "Privacy on userexe.me"
 date: 2022-03-03
 draft: false
+tags: ["this site"]
 ---
 
 I wanted to make this post instead of just a boring hard to understand privacy policy. This post outlines what data I get about you, and what I do with it. Spoiler: not much.
