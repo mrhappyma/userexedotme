@@ -81,7 +81,8 @@ Desktop: click me too</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/contact/</guid>
-      <description>              Submit  </description>
+      <description>Note: a confirmation page should appear when your message is successfully sent, if the page just reloads the captcha was invalid (try again and make sure to check the &#34;I&#39;m not a robot&#34; box).
+             Submit  </description>
     </item>
     
     <item>
