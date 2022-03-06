@@ -5,6 +5,12 @@ draft: false
 tags: ["this site"]
 ---
 
+{{< notice warning >}}
+This page is *not* a privacy policy. I'm not making any commitments, this might be out-of-date without notice.
+{{< /notice >}}
+
+
+
 I wanted to make this post instead of just a boring hard to understand privacy policy. This post outlines what data I get about you, and what I do with it. Spoiler: not much.
 
 ### 🍪 Cookies
