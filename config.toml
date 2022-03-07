@@ -27,7 +27,7 @@ defaultcontentlanguage = "en"
 
   colorScheme = "dark"
   hidecolorschemetoggle = false
-  customJS = ["blockadblock.js"]
+  customJS = []
   
 # Social links
 [[params.social]]
