@@ -28,7 +28,7 @@ defaultcontentlanguage = "en"
   colorScheme = "dark"
   hidecolorschemetoggle = false
   customJS = []
-  
+
 # Social links
 [[params.social]]
   name = "Github"
