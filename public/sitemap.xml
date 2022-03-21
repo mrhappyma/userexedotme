@@ -30,6 +30,9 @@
   </url><url>
     <loc>https://www.userexe.me/performance-tests/lighthouse/mobile/220220227/</loc>
   </url><url>
+    <loc>https://www.userexe.me/projects/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://www.userexe.me/about-me/</loc>
   </url><url>
     <loc>https://www.userexe.me/authors/</loc>
