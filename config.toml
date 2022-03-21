@@ -59,12 +59,8 @@ defaultcontentlanguage = "en"
   weight = 4
   url = "about-me/"
 [[menu.main]]
-  name = "Twitter"
-  weight = 5
-  url = "twitter-feed/"
-[[menu.main]]
   name = "Contact"
-  weight = 6
+  weight = 5
   url = "contact/"
 
 [params.goatCounter]
