@@ -13,8 +13,8 @@
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/posts/privacy/</guid>
-      <description>I wanted to make this post instead of just a boring hard to understand privacy policy. This post outlines what data I get about you, and what I do with it. Spoiler: not much.
-🍪 Cookies Probobly the biggest concern that poeple have right off the bat, ohno i don&amp;rsquo;t like the browser flavor of cookies. So why don&amp;rsquo;t I have a little popup telling you about my cookies? I don&amp;rsquo;t use any cookies.</description>
+      <description>Warning  This page is not a privacy policy. I&amp;rsquo;m not making any commitments, this might be out-of-date without notice.  I wanted to make this post instead of just a boring hard to understand privacy policy. This post outlines what data I get about you, and what I do with it. Spoiler: not much.
+🍪 Cookies    Probobly the biggest concern that poeple have right off the bat, ohno i don&amp;rsquo;t like the browser flavor of cookies.</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@ Desktop: click me too</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/about-me/</guid>
-      <description>👋 Hi, I&amp;rsquo;m Dominic! I&amp;rsquo;m a bit of an idiot/crazy person, trying to learn development and get good grades at the same time. We&amp;rsquo;ll see how that goes.</description>
+      <description>👋 Hi, I&amp;rsquo;m Dominic!    I&amp;rsquo;m a bit of an idiot/crazy person, trying to learn development and get good grades at the same time. We&amp;rsquo;ll see how that goes.</description>
     </item>
     
     <item>
@@ -101,7 +101,7 @@ Tweets by user____exe  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/what-im-using/</guid>
-      <description>Hardware  Notebook/only computer: Acer Chromebook Spin 11 I also have an ipad 9th gen  Software  OS: Debian 11 &amp;ldquo;bookworm&amp;rdquo; DE: xfce (trying to change to gnome soon) Browser: Google Chrome Editor: VS Code Languages: just node.js for now This site (full post soon): hugo + coder + utterances + github + netlify  </description>
+      <description>Hardware     Notebook/only computer: Acer Chromebook Spin 11 I also have an ipad 9th gen  Software     OS: Debian 11 &amp;ldquo;bookworm&amp;rdquo; DE: xfce (trying to change to gnome soon) Browser: Google Chrome Editor: VS Code Languages: just node.js for now This site (full post soon): hugo + coder + utterances + github + netlify  </description>
     </item>
     
   </channel>
