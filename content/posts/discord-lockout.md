@@ -3,9 +3,9 @@ title: "Locked out of my Discord"
 date: 2022-03-23
 draft: false
 ---
-<notice info>
+{{< notice info >}}
 I got back in. Thanks dad!
-</notice>
+{{< /notice >}}
 
 So Discord locked me out.
 
