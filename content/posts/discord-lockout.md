@@ -1,0 +1,15 @@
+---
+title: "Locked out of my Discord"
+date: 2022-03-23
+draft: false
+---
+
+So Discord locked me out.
+
+I was just going about my buisness, then I'm hit with a page that just says "something is going on here". It forces me to verify a phone number.
+
+The only phone numbers I have are landline or VOIP. Which conveniently, Discord doesn't allow for phone numbers.
+
+I'll be off Discord until I can sort this out. The support team is garbage - stop taking away a large chunk of people's lives, Discord!
+
+The account user.exe's messenger#4960 (ID 956288051678707782) is mine and valid.

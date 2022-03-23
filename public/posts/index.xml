@@ -6,7 +6,19 @@
     <description>Recent content in Posts on user.exe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.userexe.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.userexe.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Locked out of my Discord</title>
+      <link>https://www.userexe.me/posts/discord-lockout/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.userexe.me/posts/discord-lockout/</guid>
+      <description>So Discord locked me out.
+I was just going about my buisness, then I&amp;rsquo;m hit with a page that just says &amp;ldquo;something is going on here&amp;rdquo;. It forces me to verify a phone number.
+The only phone numbers I have are landline or VOIP. Which conveniently, Discord doesn&amp;rsquo;t allow for phone numbers.
+I&amp;rsquo;ll be off Discord until I can sort this out. The support team is garbage - stop taking away a large chunk of people&amp;rsquo;s lives, Discord!</description>
+    </item>
+    
     <item>
       <title>Privacy on userexe.me</title>
       <link>https://www.userexe.me/posts/privacy/</link>
