@@ -12,4 +12,4 @@ The only phone numbers I have are landline or VOIP. Which conveniently, Discord 
 
 I'll be off Discord until I can sort this out. The support team is garbage - stop taking away a large chunk of people's lives, Discord!
 
-The account user.exe's messenger#4960 (ID 956288051678707782) is mine and valid.
+The account user.exe's messenger#4960 (ID 956288051678707782) is mine.
