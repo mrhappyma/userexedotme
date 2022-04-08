@@ -7,7 +7,7 @@ disableComments: true
 ### Hardware
 
 - Notebook/only computer: [Acer Chromebook Spin 11](https://amzn.to/37rcBIY)
-- I also have an [ipad 9th gen](https://www.apple.com/ipad-10.2/)
+- I also have an [ipad 9th gen](https://amzn.to/3v7AVbb)
 
 ### Software
 
