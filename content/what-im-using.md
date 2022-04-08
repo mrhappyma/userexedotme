@@ -6,7 +6,7 @@ disableComments: true
 
 ### Hardware
 
-- Notebook/only computer: [Acer Chromebook Spin 11]([https://www.acer.com/ac/en/CA/content/professional-series/acerchromebookspin11](https://www.amazon.com/Acer-2-Touch-Screen-Chromebook-CP311-1HN-C2D/dp/B07C715KLH?&_encoding=UTF8&tag=userdotexe-20&linkCode=ur2&linkId=54795da43cea3433e9b7bb7ef58a98df&camp=1789&creative=9325))
+- Notebook/only computer: [Acer Chromebook Spin 11](https://amzn.to/37rcBIY)
 - I also have an [ipad 9th gen](https://www.apple.com/ipad-10.2/)
 
 ### Software
