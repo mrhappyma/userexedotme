@@ -11,8 +11,8 @@ disableComments: true
 
 ### Software
 
-- OS: Debian 11 "bookworm"
-- DE: xfce (trying to change to gnome soon)
+- OS: Ubuntu (whatever the latest stable version is)
+- DE: Gnome 41
 - Browser: [Google Chrome](https://www.google.com/chrome/)
 - Editor: [VS Code](https://code.visualstudio.com/)
 - Languages: just [node.js](https://nodejs.org/en/) for now
