@@ -13,7 +13,7 @@
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/posts/why-i-dont-like-apple/</guid>
-      <description>Note  This post is not ment as &amp;ldquo;Apple should go to hell&amp;rdquo;, it&amp;rsquo;s an explination for &amp;ldquo;why don&amp;rsquo;t you like Apple&amp;rdquo;. There&amp;rsquo;s a lot of stuff that Apple does do a good job on - have you seen the M1 Ultra? - but that is not this post. There&amp;rsquo;s other stuff I don&amp;rsquo;t like but this is the big ones.  Apple stuff only works with other Apple stuff    Apple has made itself the Apple ecosystem.</description>
+      <description>Note  This post is not ment as &amp;ldquo;Apple should go to hell&amp;rdquo;, it&amp;rsquo;s an explination for &amp;ldquo;why don&amp;rsquo;t you like Apple&amp;rdquo;. There&amp;rsquo;s a lot of stuff that Apple does do a good job on - have you seen the M1 Ultra? - but that is not this post. There&amp;rsquo;s also other stuff I don&amp;rsquo;t like but this is the big ones.  Apple stuff only works with other Apple stuff    Apple has made itself the Apple ecosystem.</description>
     </item>
     
     <item>
@@ -119,6 +119,17 @@ Learn more:
     </item>
     
     <item>
+      <title>Subscribe - Get my blog posts in your inbox</title>
+      <link>https://www.userexe.me/subscribe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.userexe.me/subscribe/</guid>
+      <description>#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:600px;} /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block. We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */  * indicates required Email Address *   First Name   Email Format  html text   View previous campaigns.
+    
+     (function($) {window.</description>
+    </item>
+    
+    <item>
       <title>Twitter Feed</title>
       <link>https://www.userexe.me/twitter-feed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -133,7 +144,7 @@ Learn more:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/what-im-using/</guid>
-      <description>Hardware     Notebook/only computer: Acer Chromebook Spin 11 I also have an ipad 9th gen  Software     OS: Debian 11 &amp;ldquo;bookworm&amp;rdquo; DE: xfce (trying to change to gnome soon) Browser: Google Chrome Editor: VS Code Languages: just node.js for now This site (full post soon): hugo + coder + utterances + github + netlify  Some links above are affiliate links :)</description>
+      <description>Hardware     Notebook/only computer: Acer Chromebook Spin 11 I also have an ipad 9th gen  Software     OS: Ubuntu (whatever the latest stable version is) DE: Gnome 41 Browser: Google Chrome Editor: VS Code Languages: just node.js for now This site (full post soon): hugo + coder + utterances + github + netlify  Some links above are affiliate links :)</description>
     </item>
     
   </channel>

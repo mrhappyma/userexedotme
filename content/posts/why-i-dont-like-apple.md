@@ -4,7 +4,7 @@ date: 2022-04-10
 draft: false
 ---
 
-{{< notice note >}} This post is not ment as "Apple should go to hell", it's an explination for "why don't you like Apple". There's a lot of stuff that Apple does do a good job on - have you seen the M1 Ultra? - but that is not this post. There's other stuff I don't like but this is the big ones.{{< /notice >}}
+{{< notice note >}} This post is not ment as "Apple should go to hell", it's an explination for "why don't you like Apple". There's a lot of stuff that Apple does do a good job on - have you seen the M1 Ultra? - but that is not this post. There's also other stuff I don't like but this is the big ones.{{< /notice >}}
 
 
 ## Apple stuff only works with other Apple stuff
