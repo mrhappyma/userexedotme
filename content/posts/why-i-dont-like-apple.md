@@ -6,7 +6,6 @@ draft: false
 
 {{< notice note >}} This post is not ment as "Apple should go to hell", it's an explination for "why don't you like Apple". There's a lot of stuff that Apple does do a good job on - have you seen the M1 Ultra? - but that is not this post. There's also other stuff I don't like but this is the big ones.{{< /notice >}}
 
-
 ## Apple stuff only works with other Apple stuff
 
 Apple has made itself the Apple ecosystem. The Apple walled garden. Whatever you want to call it, you can only use Apple stuff with other Apple stuff.
@@ -41,8 +40,10 @@ They literally put time and effort into making their products worse! Why, Apple?
 
 {{< youtube ogmJhOAZvkU >}}
 
-### Example 2: You *must* fill the home screen from top to bottom left to right
-Just *why*? Some people have small hands or just plain like the convenience of it.
+### Example 2: You _must_ fill the home screen from top to bottom left to right
+
+Just _why_? Some people have small hands or just plain like the convenience of it.
+
 ### Example 2: You _must_ fill the home screen from top to bottom left to right
 
 Just _why_? Some people have small hands or just plain like the convenience of it.
