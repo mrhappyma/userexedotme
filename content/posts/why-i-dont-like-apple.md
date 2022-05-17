@@ -15,22 +15,22 @@ It used to belong to my dad. It's ancient. Let's imagine that I want to take a m
 
 With the iPod, I first need to download iTunes. This is extra hard because, no surprise here, that's extra hard to do when you're not on a Mac. I then need to find some funky way to get the mp3 out of iTunes, which is another rabbit hole.
 
-### Example 2: Green bubble blue bubble
+### Example 2: Green Bubble vs Blue Bubble
 {{< youtube BuaKzm7Kq9Q >}}
 
 ### Example 3: Apple Watch
 This one is pretty straightforward. Let's say you got yourself a fancy little Apple watch. You can't use it at all, without an iPhone.
 
 ## Right to Repair and Apple's fake work to make devices repairable
-[Right to Repair](https://repair.org/) in a nuttshell is a movement to be able to repair devices without your warranty being voided. Apple has been a long time target of this movement for reasons that sorta explain themselves:
+[Right to Repair](https://repair.org/) in a nutshell is a movement to be able to repair devices without your warranty being voided. Apple has been a long time target of this movement for reasons that sorta explain themselves:
 {{< youtube o2_SZ4tfLns >}}
 The thing is, if you went with the option of going to Mr.Rossman for him to fix it for free, your warenty is now void. And this by far is not the only example of this.
 
-Apple noticed people not liking this and launched the "Apple Authorized Service Provider Program". This itself just a PR stunt:
+Apple noticed people strongly disliking this, and launched the "Apple Authorized Service Provider Program". This itself just a PR stunt:
 {{< youtube rwgpTDluufY >}}
 
 ## Just being stupid
-They litterally put time and effort into making their products worse. Why, Apple?
+They literally put time and effort into making their products worse! Why, Apple?
 
 ### Example 1: You can't remove the power cord on a $1800 display?
 {{< youtube ogmJhOAZvkU >}}
@@ -38,6 +38,6 @@ They litterally put time and effort into making their products worse. Why, Apple
 ### Example 2: You *must* fill the home screen from top to bottom left to right
 Just *why*? Some people have small hands or just plain like the convenience of it.
 
-## And finially the Apple cult
+## And finally the Apple cult
 There's this group of people who will just buy whatever Apple releases and do whatever Apple tells them to do.
 {{< youtube _hYHwkIuEMo >}}
