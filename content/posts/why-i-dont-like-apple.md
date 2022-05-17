@@ -15,7 +15,7 @@ It used to belong to my dad. It's ancient. Let's imagine that I want to take a m
 
 With the iPod, I first need to download iTunes. This is extra hard because, no surprise here, that's extra hard to do when you're not on a Mac. I then need to find some funky way to get the mp3 out of iTunes, which is another rabbit hole.
 
-### Example 2: Green Bubble vs Blue Bubble
+### Example 2: Green Bubbles Blue Bubbles
 {{< youtube BuaKzm7Kq9Q >}}
 
 ### Example 3: Apple Watch
@@ -26,7 +26,7 @@ This one is pretty straightforward. Let's say you got yourself a fancy little Ap
 {{< youtube o2_SZ4tfLns >}}
 The thing is, if you went with the option of going to Mr.Rossman for him to fix it for free, your warenty is now void. And this by far is not the only example of this.
 
-Apple noticed people strongly disliking this, and launched the "Apple Authorized Service Provider Program". This itself just a PR stunt:
+Apple noticed people not liking this and launched the "Apple Authorized Service Provider Program". This itself just a PR stunt:
 {{< youtube rwgpTDluufY >}}
 
 ## Just being stupid
