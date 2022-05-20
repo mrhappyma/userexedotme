@@ -22,7 +22,7 @@ With the iPod, I first need to download iTunes. This is extra hard because, no s
 This one is pretty straightforward. Let's say you got yourself a fancy little Apple watch. You can't use it at all, without an iPhone.
 
 ## Right to Repair and Apple's fake work to make devices repairable
-[Right to Repair](https://repair.org/) in a nuttshell is a movement to be able to repair devices without your warranty being voided. Apple has been a long time target of this movement for reasons that sorta explain themselves:
+[Right to Repair](https://repair.org/) in a nutshell is a movement to be able to repair devices without your warranty being voided. Apple has been a long time target of this movement for reasons that sorta explain themselves:
 {{< youtube o2_SZ4tfLns >}}
 The thing is, if you went with the option of going to Mr.Rossman for him to fix it for free, your warenty is now void. And this by far is not the only example of this.
 
@@ -30,7 +30,7 @@ Apple noticed people not liking this and launched the "Apple Authorized Service 
 {{< youtube rwgpTDluufY >}}
 
 ## Just being stupid
-They litterally put time and effort into making their products worse. Why, Apple?
+They literally put time and effort into making their products worse. Why, Apple?
 
 ### Example 1: You can't remove the power cord on a $1800 display?
 {{< youtube ogmJhOAZvkU >}}
@@ -38,6 +38,6 @@ They litterally put time and effort into making their products worse. Why, Apple
 ### Example 2: You *must* fill the home screen from top to bottom left to right
 Just *why*? Some people have small hands or just plain like the convenience of it.
 
-## And finially the Apple cult
+## And finally the Apple cult
 There's this group of people who will just buy whatever Apple releases and do whatever Apple tells them to do.
 {{< youtube _hYHwkIuEMo >}}
