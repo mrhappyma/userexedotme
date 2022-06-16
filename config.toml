@@ -38,8 +38,13 @@ defaultcontentlanguage = "en"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 3
+  weight = 2
   url = "https://twitter.com/user____exe/"
+[[params.social]]
+  name = "Discord Server"
+  icon = "fa fa-discord fa-2x"
+  weight = 3
+  url = "https://discord.gg/a3rBjWpWuc"
 
 # Menu links
 [[menu.main]]
