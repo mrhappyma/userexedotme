@@ -13,7 +13,7 @@
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/posts/why-i-dont-like-apple/</guid>
-      <description>Note  This post is not ment as &amp;ldquo;Apple should go to hell&amp;rdquo;, it&amp;rsquo;s an explination for &amp;ldquo;why don&amp;rsquo;t you like Apple&amp;rdquo;. There&amp;rsquo;s a lot of stuff that Apple does do a good job on - have you seen the M1 Ultra? - but that is not this post. There&amp;rsquo;s also other stuff I don&amp;rsquo;t like but this is the big ones.  Apple stuff only works with other Apple stuff    Apple has made itself the Apple ecosystem.</description>
+      <description>Note This post is not ment as &amp;ldquo;Apple should go to hell&amp;rdquo;, it&amp;rsquo;s an explination for &amp;ldquo;why don&amp;rsquo;t you like Apple&amp;rdquo;. There&amp;rsquo;s a lot of stuff that Apple does do a good job on - have you seen the M1 Ultra? - but that is not this post. There&amp;rsquo;s also other stuff I don&amp;rsquo;t like but this is the big ones. Apple stuff only works with other Apple stuff Apple has made itself the Apple ecosystem.</description>
     </item>
     
     <item>
@@ -22,10 +22,10 @@
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/posts/discord-lockout/</guid>
-      <description>Info  I got back in. Thanks dad!  So Discord locked me out.
+      <description>Info I got back in. Thanks dad! So Discord locked me out.
 I was just going about my buisness, then I&amp;rsquo;m hit with a page that just says &amp;ldquo;something is going on here&amp;rdquo;. It forces me to verify a phone number.
 The only phone numbers I have are landline or VOIP. Which conveniently, Discord doesn&amp;rsquo;t allow for phone numbers.
-I&amp;rsquo;ll be off Discord until I can sort this out.</description>
+I&amp;rsquo;ll be off Discord until I can sort this out. The support team is garbage - stop taking away a large chunk of people&amp;rsquo;s lives, Discord!</description>
     </item>
     
     <item>
@@ -34,8 +34,8 @@ I&amp;rsquo;ll be off Discord until I can sort this out.</description>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/posts/privacy/</guid>
-      <description>Warning  This page is not a privacy policy. I&amp;rsquo;m not making any commitments, this might be out-of-date without notice.  I wanted to make this post instead of just a boring hard to understand privacy policy. This post outlines what data I get about you, and what I do with it. Spoiler: not much.
-🍪 Cookies    Probobly the biggest concern that poeple have right off the bat, ohno i don&amp;rsquo;t like the browser flavor of cookies.</description>
+      <description>Warning This page is not a privacy policy. I&amp;rsquo;m not making any commitments, this might be out-of-date without notice. I wanted to make this post instead of just a boring hard to understand privacy policy. This post outlines what data I get about you, and what I do with it. Spoiler: not much.
+🍪 Cookies Probobly the biggest concern that poeple have right off the bat, ohno i don&amp;rsquo;t like the browser flavor of cookies.</description>
     </item>
     
     <item>
@@ -75,7 +75,7 @@ Desktop: click me too</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/performance-tests/lighthouse/desktop/20220227/</guid>
-      <description>Lighthouse Report body {margin: 0}   Lighthouse report requires JavaScript. Please enable.  window.__LIGHTHOUSE_JSON__ = {&#34;lighthouseVersion&#34;:&#34;9.1.0&#34;,&#34;requestedUrl&#34;:&#34;http://userexe.me/&#34;,&#34;finalUrl&#34;:&#34;http://userexe.me/&#34;,&#34;fetchTime&#34;:&#34;2022-02-27T19:31:19.295Z&#34;,&#34;gatherMode&#34;:&#34;navigation&#34;,&#34;runWarnings&#34;:[],&#34;userAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;environment&#34;:{&#34;networkUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4695.0 Safari/537.36 Chrome-Lighthouse&#34;,&#34;hostUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;benchmarkIndex&#34;:1101,&#34;credits&#34;:{&#34;axe-core&#34;:&#34;4.2.3&#34;}},&#34;audits&#34;:{&#34;is-on-https&#34;:{&#34;id&#34;:&#34;is-on-https&#34;,&#34;title&#34;:&#34;Does not use HTTPS&#34;,&#34;description&#34;:&#34;All sites should be protected with HTTPS, even ones that don&#39;t handle sensitive data.</description>
+      <description> &lt;!doctype html&gt; Lighthouse Report Lighthouse report requires JavaScript. Please enable. </description>
     </item>
     
     <item>
@@ -84,7 +84,7 @@ Desktop: click me too</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/performance-tests/lighthouse/mobile/220220227/</guid>
-      <description>Lighthouse Report body {margin: 0}   Lighthouse report requires JavaScript. Please enable.  window.__LIGHTHOUSE_JSON__ = {&#34;lighthouseVersion&#34;:&#34;9.1.0&#34;,&#34;requestedUrl&#34;:&#34;http://userexe.me/&#34;,&#34;finalUrl&#34;:&#34;http://userexe.me/&#34;,&#34;fetchTime&#34;:&#34;2022-02-27T19:31:19.295Z&#34;,&#34;gatherMode&#34;:&#34;navigation&#34;,&#34;runWarnings&#34;:[],&#34;userAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;environment&#34;:{&#34;networkUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4695.0 Safari/537.36 Chrome-Lighthouse&#34;,&#34;hostUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;benchmarkIndex&#34;:1101,&#34;credits&#34;:{&#34;axe-core&#34;:&#34;4.2.3&#34;}},&#34;audits&#34;:{&#34;is-on-https&#34;:{&#34;id&#34;:&#34;is-on-https&#34;,&#34;title&#34;:&#34;Does not use HTTPS&#34;,&#34;description&#34;:&#34;All sites should be protected with HTTPS, even ones that don&#39;t handle sensitive data.</description>
+      <description> &lt;!doctype html&gt; Lighthouse Report Lighthouse report requires JavaScript. Please enable. </description>
     </item>
     
     <item>
@@ -93,10 +93,10 @@ Desktop: click me too</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/projects/</guid>
-      <description>My Projects    Duckers    Duckers is a simple Discord bot that does pretty simple things: type /quack and get a duck!
+      <description>My Projects Duckers Duckers is a simple Discord bot that does pretty simple things: type /quack and get a duck!
 Duckers was made to modal my random-d.uk Autocode intigration (still WiP).
 Learn more:
- Duckers (outdated) website Duckers Autocode intigration Duckers on top.gg Duckers on bot.gg  Suggestionator    Suggestionator is my WiP Discord bot with the goal of being the most uber-customizable suggestions bot.</description>
+Duckers (outdated) website Duckers Autocode intigration Duckers on top.gg Duckers on bot.gg Suggestionator Suggestionator is my WiP Discord bot with the goal of being the most uber-customizable suggestions bot. With everything from custom outputs and forms and whanot planned, it&amp;rsquo;s currently a peice of crap since I haven&amp;rsquo;t been able to work on it in a while.</description>
     </item>
     
     <item>
@@ -105,7 +105,7 @@ Learn more:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/about-me/</guid>
-      <description>👋 Hi, I&amp;rsquo;m Dominic!    I&amp;rsquo;m a bit of an idiot/crazy person, trying to learn development and get good grades at the same time. We&amp;rsquo;ll see how that goes.</description>
+      <description>👋 Hi, I&amp;rsquo;m Dominic! I&amp;rsquo;m a bit of an idiot/crazy person, trying to learn development and get good grades at the same time. We&amp;rsquo;ll see how that goes.</description>
     </item>
     
     <item>
@@ -115,7 +115,7 @@ Learn more:
       
       <guid>https://www.userexe.me/contact/</guid>
       <description>Note: a confirmation page should appear when your message is successfully sent, if the page just reloads the captcha was invalid (try again and make sure to check the &#34;I&#39;m not a robot&#34; box).
-             Submit  </description>
+Submit </description>
     </item>
     
     <item>
@@ -124,9 +124,7 @@ Learn more:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/subscribe/</guid>
-      <description>#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:600px;} /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block. We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */  * indicates required Email Address *   First Name   Email Format  html text   View previous campaigns.
-    
-     (function($) {window.</description>
+      <description>* indicates required Email Address * First Name Email Format html text View previous campaigns.</description>
     </item>
     
     <item>
@@ -135,7 +133,7 @@ Learn more:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/twitter-feed/</guid>
-      <description>This page has been removed    Sorry. I&amp;rsquo;ve removed this page as it really isn&amp;rsquo;t needed and was just taking up valuable menu space.</description>
+      <description>This page has been removed Sorry. I&amp;rsquo;ve removed this page as it really isn&amp;rsquo;t needed and was just taking up valuable menu space.</description>
     </item>
     
     <item>
@@ -144,7 +142,7 @@ Learn more:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/what-im-using/</guid>
-      <description>Hardware     Notebook/only computer: Acer Chromebook Spin 11 I also have an ipad 9th gen  Software     OS: Ubuntu (whatever the latest stable version is) DE: Gnome 41 Browser: Google Chrome Editor: VS Code Languages: just node.js for now This site (full post soon): hugo + coder + utterances + github + netlify  Some links above are affiliate links :)</description>
+      <description>Hardware Notebook/only computer: Acer Chromebook Spin 11 I also have an ipad 9th gen Software OS: Ubuntu (whatever the latest stable version is) DE: Gnome Browser: usually Google Chrome, although I have been using Firefox recently. Editor: VS Code Languages: just node.js for now This site (full post soon): hugo + coder + utterances + github + netlify Some links above are affiliate links :)</description>
     </item>
     
   </channel>

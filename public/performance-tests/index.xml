@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/performance-tests/lighthouse/desktop/20220227/</guid>
-      <description>Lighthouse Report body {margin: 0}   Lighthouse report requires JavaScript. Please enable.  window.__LIGHTHOUSE_JSON__ = {&#34;lighthouseVersion&#34;:&#34;9.1.0&#34;,&#34;requestedUrl&#34;:&#34;http://userexe.me/&#34;,&#34;finalUrl&#34;:&#34;http://userexe.me/&#34;,&#34;fetchTime&#34;:&#34;2022-02-27T19:31:19.295Z&#34;,&#34;gatherMode&#34;:&#34;navigation&#34;,&#34;runWarnings&#34;:[],&#34;userAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;environment&#34;:{&#34;networkUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4695.0 Safari/537.36 Chrome-Lighthouse&#34;,&#34;hostUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;benchmarkIndex&#34;:1101,&#34;credits&#34;:{&#34;axe-core&#34;:&#34;4.2.3&#34;}},&#34;audits&#34;:{&#34;is-on-https&#34;:{&#34;id&#34;:&#34;is-on-https&#34;,&#34;title&#34;:&#34;Does not use HTTPS&#34;,&#34;description&#34;:&#34;All sites should be protected with HTTPS, even ones that don&#39;t handle sensitive data.</description>
+      <description> &lt;!doctype html&gt; Lighthouse Report Lighthouse report requires JavaScript. Please enable. </description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.userexe.me/performance-tests/lighthouse/mobile/220220227/</guid>
-      <description>Lighthouse Report body {margin: 0}   Lighthouse report requires JavaScript. Please enable.  window.__LIGHTHOUSE_JSON__ = {&#34;lighthouseVersion&#34;:&#34;9.1.0&#34;,&#34;requestedUrl&#34;:&#34;http://userexe.me/&#34;,&#34;finalUrl&#34;:&#34;http://userexe.me/&#34;,&#34;fetchTime&#34;:&#34;2022-02-27T19:31:19.295Z&#34;,&#34;gatherMode&#34;:&#34;navigation&#34;,&#34;runWarnings&#34;:[],&#34;userAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;environment&#34;:{&#34;networkUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4695.0 Safari/537.36 Chrome-Lighthouse&#34;,&#34;hostUserAgent&#34;:&#34;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36&#34;,&#34;benchmarkIndex&#34;:1101,&#34;credits&#34;:{&#34;axe-core&#34;:&#34;4.2.3&#34;}},&#34;audits&#34;:{&#34;is-on-https&#34;:{&#34;id&#34;:&#34;is-on-https&#34;,&#34;title&#34;:&#34;Does not use HTTPS&#34;,&#34;description&#34;:&#34;All sites should be protected with HTTPS, even ones that don&#39;t handle sensitive data.</description>
+      <description> &lt;!doctype html&gt; Lighthouse Report Lighthouse report requires JavaScript. Please enable. </description>
     </item>
     
   </channel>
