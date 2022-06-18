@@ -6,7 +6,18 @@
     <description>Recent content in this site on user.exe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.userexe.me/tags/this-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.userexe.me/tags/this-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How my website works</title>
+      <link>https://www.userexe.me/posts/this-website/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.userexe.me/posts/this-website/</guid>
+      <description>I&amp;rsquo;ve been meaning to do this post for a while, so here it is.
+The base site The site itself is made with hugo. It&amp;rsquo;s a really cool static site generator that lets me write posts in markdown. I write my post, plop it in /content/posts/whatever.md, run hugo, and the site gets built into /public in less than a second.
+I can even run hugo serve --navigateToChanged and it will host my site on localhost port 1313, rebuilding every time I save a file, and redirect my already open window to whatever page was saved last.</description>
+    </item>
+    
     <item>
       <title>Privacy on userexe.me</title>
       <link>https://www.userexe.me/posts/privacy/</link>

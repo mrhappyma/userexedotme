@@ -1,7 +1,7 @@
 ---
 Title: "How my website works"
 date: 2022-06-18
-draft: true
+draft: false
 tags: ["this site"]
 ---
 
