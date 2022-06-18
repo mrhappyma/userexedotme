@@ -38,8 +38,18 @@ defaultcontentlanguage = "en"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 3
+  weight = 2
   url = "https://twitter.com/user____exe/"
+[[params.social]]
+  name = "Spotify"
+  icon = "fa fa-spotify fa-2x"
+  weight = 3
+  url = "https://open.spotify.com/user/gft22v6m1ym82741njff8rdhe?si=d397134cc8e34e0b"
+[[params.social]]
+  name = "Discord Server"
+  icon = "fa fa-discord fa-2x"
+  weight = 4
+  url = "https://discord.gg/a3rBjWpWuc"
 
 # Menu links
 [[menu.main]]
