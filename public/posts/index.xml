@@ -11,74 +11,74 @@
       <title>How my website works</title>
       <link>https://www.userexe.me/posts/this-website/</link>
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/posts/this-website/</guid>
       <description>I&amp;rsquo;ve been meaning to do this post for a while, so here it is.
 The base site The site itself is made with hugo. It&amp;rsquo;s a really cool static site generator that lets me write posts in markdown. I write my post, plop it in /content/posts/whatever.md, run hugo, and the site gets built into /public in less than a second.
 I can even run hugo serve --navigateToChanged and it will host my site on localhost port 1313, rebuilding every time I save a file, and redirect my already open window to whatever page was saved last.</description>
     </item>
-
+    
     <item>
       <title>My Problem with Apple</title>
       <link>https://www.userexe.me/posts/why-i-dont-like-apple/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/posts/why-i-dont-like-apple/</guid>
       <description>Note This post is not ment as &amp;ldquo;Apple should go to hell&amp;rdquo;, it&amp;rsquo;s an explination for &amp;ldquo;why don&amp;rsquo;t you like Apple&amp;rdquo;. There&amp;rsquo;s a lot of stuff that Apple does do a good job on - have you seen the M1 Ultra? - but that is not this post. There&amp;rsquo;s also other stuff I don&amp;rsquo;t like but this is the big ones. Apple stuff only works with other Apple stuff Apple has made itself the Apple ecosystem.</description>
     </item>
-
+    
     <item>
       <title>Locked out of my Discord</title>
       <link>https://www.userexe.me/posts/discord-lockout/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/posts/discord-lockout/</guid>
       <description>Info I got back in. Thanks dad! So Discord locked me out.
 I was just going about my buisness, then I&amp;rsquo;m hit with a page that just says &amp;ldquo;something is going on here&amp;rdquo;. It forces me to verify a phone number.
 The only phone numbers I have are landline or VOIP. Which conveniently, Discord doesn&amp;rsquo;t allow for phone numbers.
 I&amp;rsquo;ll be off Discord until I can sort this out. The support team is garbage - stop taking away a large chunk of people&amp;rsquo;s lives, Discord!</description>
     </item>
-
+    
     <item>
       <title>Privacy on userexe.me</title>
       <link>https://www.userexe.me/posts/privacy/</link>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/posts/privacy/</guid>
       <description>Warning This page is not a privacy policy. I&amp;rsquo;m not making any commitments, this might be out-of-date without notice. I wanted to make this post instead of just a boring hard to understand privacy policy. This post outlines what data I get about you, and what I do with it. Spoiler: not much.
 🍪 Cookies Probobly the biggest concern that poeple have right off the bat, ohno i don&amp;rsquo;t like the browser flavor of cookies.</description>
     </item>
-
+    
     <item>
       <title>Sign Language is HARD</title>
       <link>https://www.userexe.me/posts/sign-language-is-hard/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/posts/sign-language-is-hard/</guid>
       <description>So for school we have to learn sign language, and it&amp;rsquo;s quite difficult. Like very. I think.
 We&amp;rsquo;re using this site called sign school, which tries to make it &amp;ldquo;fun&amp;rdquo; but it&amp;rsquo;s kinda disturbing. Here&amp;rsquo;s an example: click click click me
 I&amp;rsquo;m not sure what it is I just want to see if my rss feed works lol</description>
     </item>
-
+    
     <item>
       <title>Initial Performance Tests</title>
       <link>https://www.userexe.me/posts/initial-lighthouse-tests/</link>
       <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/posts/initial-lighthouse-tests/</guid>
       <description>Took some performance tests from Google&amp;rsquo;s &amp;ldquo;Lighthouse&amp;rdquo; and thought I would share them in the first sorta actual post on this site.
 Mobile: click me
 Desktop: click me too</description>
     </item>
-
+    
     <item>
       <title>Hello</title>
       <link>https://www.userexe.me/posts/hello/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-
+      
       <guid>https://www.userexe.me/posts/hello/</guid>
       <description>oh hi</description>
     </item>
-
+    
   </channel>
 </rss>
