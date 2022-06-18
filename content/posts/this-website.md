@@ -23,7 +23,7 @@ So this is really cool, in my opinion. Comments on blog posts are done with a pl
 
 ## Hosting the site itself
 
-The site is hosted by [Netlify](netlify.com/) on their free tier.  I just commit my changes to [my site's github repo](https://github.com/mrhappyma/userexedotme), and Netlify automatically deploys my site in like half a minute. It's insane.
+The site is hosted by [Netlify](netlify.com/) on their free tier. I just commit my changes to [my site's github repo](https://github.com/mrhappyma/userexedotme), and Netlify automatically deploys my site in like half a minute. It's insane.
 
 Netlify also deploys a preview of any PRs made, so I don't have to clone the repo and deal with build it locally to get a feal for what the PR looks like.
 
