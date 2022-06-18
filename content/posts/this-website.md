@@ -19,7 +19,7 @@ I use the hugo theme [coder](https://github.com/luizdepra/hugo-coder/). It's a n
 
 ## Comments
 
-So this is really cool, in my opinion. Comments on blog posts are done with a platform called [utterances](https://utteranc.es). While a normal comments solution would just store the comments in a database, utterances converts them into github issues. You can see all of the comments/issues on [my site's github repo](https://github.com/mrhappyma/userexedotme/issues?q=label%3A%22on-site+comments%22+).
+So this is really cool, in my opinion. Comments on blog posts are done with a platform called [utterances](https://utteranc.es). While a normal comments solution would just store the comments in a database, utterances converts them into github issues. This was it is 100% free. You can see all of the comments/issues on [my site's github repo](https://github.com/mrhappyma/userexedotme/issues?q=label%3A%22on-site+comments%22+).
 
 ## Hosting the site itself
 
