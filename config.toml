@@ -63,7 +63,7 @@ defaultcontentlanguage = "en"
 [[menu.main]]
   name = "Uses"
   weight = 3
-  url = "what-im-using/"
+  url = "uses/"
 [[menu.main]]
   name = "About"
   weight = 4
