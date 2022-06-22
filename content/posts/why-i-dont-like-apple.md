@@ -4,7 +4,7 @@ date: 2022-04-10
 draft: false
 ---
 
-{{< notice note >}} This post is not ment as "Apple should go to hell", it's an explination for "why don't you like Apple". There's a lot of stuff that Apple does do a good job on - have you seen the M1 Ultra? - but that is not this post. There's also other stuff I don't like but this is the big ones.{{< /notice >}}
+{{< notice note >}} This post is not meant as "Apple should go to hell", it's an explanation for "why don't you like Apple". There's a lot of stuff that Apple does do a good job on - have you seen the M1 Ultra? - but that is not this post. There's also other stuff I don't like but this is the big ones.{{< /notice >}}
 
 
 ## Apple stuff only works with other Apple stuff
@@ -24,7 +24,7 @@ This one is pretty straightforward. Let's say you got yourself a fancy little Ap
 ## Right to Repair and Apple's fake work to make devices repairable
 [Right to Repair](https://repair.org/) in a nutshell is a movement to be able to repair devices without your warranty being voided. Apple has been a long time target of this movement for reasons that sorta explain themselves:
 {{< youtube o2_SZ4tfLns >}}
-The thing is, if you went with the option of going to Mr.Rossman for him to fix it for free, your warenty is now void. And this by far is not the only example of this.
+The thing is, if you went with the option of going to Mr.Rossmann for him to fix it for free, your warranty is now void. And this by far is not the only example of this.
 
 Apple noticed people not liking this and launched the "Apple Authorized Service Provider Program". This itself just a PR stunt:
 {{< youtube rwgpTDluufY >}}

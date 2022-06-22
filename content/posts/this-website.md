@@ -15,7 +15,7 @@ I can even run `hugo serve --navigateToChanged` and it will host my site on loca
 
 ### The theme
 
-I use the hugo theme [coder](https://github.com/luizdepra/hugo-coder/). It's a nice minimalistic theme that has everything I need.
+I use the hugo theme [coder](https://github.com/luizdepra/hugo-coder/). It's a nice minimalist theme that has everything I need.
 
 ## Comments
 
