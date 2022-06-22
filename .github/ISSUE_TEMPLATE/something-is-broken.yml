@@ -26,8 +26,6 @@ body:
         - Microsoft Edge
         - Opera
         - Other (and I have mentioned it in the description section)
-     validations:
-        required: true
   - type: textarea
     id: logs
     attributes:
