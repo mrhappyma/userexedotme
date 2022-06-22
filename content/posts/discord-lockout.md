@@ -9,7 +9,7 @@ I got back in. Thanks dad!
 
 So Discord locked me out.
 
-I was just going about my buisness, then I'm hit with a page that just says "something is going on here". It forces me to verify a phone number.
+I was just going about my business, then I'm hit with a page that just says "something is going on here". It forces me to verify a phone number.
 
 The only phone numbers I have are landline or VOIP. Which conveniently, Discord doesn't allow for phone numbers.
 
