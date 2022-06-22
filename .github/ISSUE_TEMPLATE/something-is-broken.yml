@@ -1,6 +1,5 @@
 name: Something is broken
 description: File a bug report
-title: ""
 labels: ["bug"]
 body:
   - type: markdown
@@ -27,7 +26,7 @@ body:
         - Microsoft Edge
         - Opera
         - Other (and I have mentioned it in the description section)
-      validations:
+     validations:
         required: true
   - type: textarea
     id: logs
