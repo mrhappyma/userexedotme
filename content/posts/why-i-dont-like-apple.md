@@ -2,6 +2,7 @@
 title: "My Problem with Apple"
 date: 2022-04-10
 draft: false
+description: "Ok, so hear me out."
 ---
 
 {{< notice note >}} This post is not meant as "Apple should go to hell", it's an explanation for "why don't you like Apple". There's a lot of stuff that Apple does do a good job on - have you seen the M1 Ultra? - but that is not this post. There's also other stuff I don't like but this is the big ones.{{< /notice >}}

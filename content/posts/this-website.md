@@ -3,6 +3,7 @@ Title: "How my website works"
 date: 2022-06-18
 draft: false
 tags: ["this site"]
+description: "(almost) all the tools that power my website"
 ---
 
 I've been meaning to do this post for a while, so here it is.

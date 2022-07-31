@@ -2,6 +2,7 @@
 title: "Sign Language is HARD"
 date: 2022-03-01
 draft: false
+description: "a.k.a. RSS feed test."
 ---
 
 So for school we have to learn *sign language*, and it's quite difficult. Like very. I think.

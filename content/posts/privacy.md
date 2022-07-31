@@ -3,6 +3,7 @@ Title: "Privacy on userexe.me"
 date: 2022-03-03
 draft: false
 tags: ["this site"]
+description: "It's like a privacy policy but it's actually a blog post."
 ---
 
 {{< notice warning >}}
