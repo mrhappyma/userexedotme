@@ -1,5 +1,9 @@
 ## My Projects
 
+{{< notice warning >}}
+This page is horribly outdated and I don't have the energy to update it. If you want to know what I'm working on come [join my Discord server](https://discord.gg/a3rBjWpWuc) and ask.
+{{< /notice >}}
+
 ### Duckers
 
 Duckers is a simple Discord bot that does pretty simple things: type `/quack` and get a duck!
