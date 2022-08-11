@@ -6,4 +6,4 @@
 
 **Email**: [dominic@userexe.me](mailto:dominic@userexe.me)
 
-**Twitter**: [@user____exe](https://twitter.com/messages/compose?recipient_id=1473003703292641287)
+**Twitter**: [@user\_\_\_\_exe](https://twitter.com/messages/compose?recipient_id=1473003703292641287)
