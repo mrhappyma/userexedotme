@@ -12,7 +12,7 @@ disableComments: true
 ### Software
 
 - OS: Ubuntu (whatever the latest stable version is)
-- DE: Gnome
+- DE: Budgie
 - Browser: usually [Google Chrome](https://www.google.com/chrome/), although I have been using [Firefox](https://www.mozilla.org/en-US/firefox/new/) recently.
 - Editor: [VS Code](https://code.visualstudio.com/)
 - Languages: just [node.js](https://nodejs.org/en/) for now
