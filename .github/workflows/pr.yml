@@ -11,8 +11,6 @@ jobs:
         id: wait-for-netflify-preview
         with:
           site_name: "userexedotme"
-      - name: Checkout
-        uses: actions/checkout@v2
       - name: Audit URLs using Lighthouse
         uses: treosh/lighthouse-ci-action@v2
         with:
@@ -20,7 +18,7 @@ jobs:
           urls: |
               ${{ steps.wait-for-netflify-preview.outputs.url }}
       - name: Lighthouse Report
-        uses: ./ # Uses an action in the root directory
+        uses: manrueda/lighthouse-report-action@v1.0.1
         with:
           reports: '.lighthouseci'
           github-token: ${{ secrets.GITHUB_TOKEN }}
