@@ -17,8 +17,8 @@ jobs:
           runs: 3
           urls: |
               ${{ steps.wait-for-netflify-preview.outputs.url }}
-      - name: Lighthouse Report
-        uses: manrueda/lighthouse-report-action@v1.1.2
+      - name: Post Lighthouse Status
+        uses: manrueda/lighthouse-report-action@v1.1.1
         with:
           reports: '.lighthouseci'
           github-token: ${{ secrets.GITHUB_TOKEN }}
