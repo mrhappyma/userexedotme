@@ -1,5 +1,5 @@
-name: Lighthouse tests
-on: [push, pull_request]
+name: PR
+on: pull_request
 
 jobs:
   test:
