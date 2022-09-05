@@ -2,14 +2,25 @@ name: Lighthouse tests
 on: [push, pull_request]
 
 jobs:
-  audit:
+  test:
     runs-on: ubuntu-latest
+    name: Report
     steps:
-    - name: Audit Netlify deploy preview
-      uses: jakejarvis/lighthouse-action@master
-      with:
-        netlify_site: 'userexedotme.netlify.app'
-    - uses: actions/upload-artifact@master
-      with:
-        name: report
-        path: './report'
+      - name: Waiting for 200 from the Netlify Preview
+        uses: josephduffy/wait-for-netlify-action@v1
+        id: wait-for-netflify-preview
+        with:
+          site_name: "userexedotme"
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Audit URLs using Lighthouse
+        uses: treosh/lighthouse-ci-action@v2
+        with:
+          runs: 3
+          urls: |
+              ${{ steps.wait-for-netflify-preview.outputs.url }}
+      - name: Lighthouse Report
+        uses: ./ # Uses an action in the root directory
+        with:
+          reports: '.lighthouseci'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
