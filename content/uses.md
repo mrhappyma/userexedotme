@@ -13,11 +13,11 @@ disableComments: true
 
 - OS: Ubuntu (whatever the latest stable version is)
 - DE: Budgie
-- Browser: usually [Google Chrome](https://www.google.com/chrome/), although I have been using [Firefox](https://www.mozilla.org/en-US/firefox/new/) recently.
+- Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - Editor: [VS Code](https://code.visualstudio.com/)
-- Languages: just [node.js](https://nodejs.org/en/) for now
-- Terminal: [Hyper](https://hyper.is)
-- This site (full post soon): [hugo](https://gohugo.io/) + [coder](https://github.com/luizdepra/hugo-coder) + [utterances](https://utteranc.es/) + [github](https://github.com/mrhappyma/userexedotme) + [netlify](https://app.netlify.com/sites/userexedotme/)
+- Languages: primarily [node.js](https://nodejs.org/en/) with TypeScript
+- Terminal: [Hyper](https://hyper.is) or Tilix
+- This site [(blog post)](../posts/this-website): [hugo](https://gohugo.io/) + [coder](https://github.com/luizdepra/hugo-coder) + [utterances](https://utteranc.es/) + [goatcounter](https://www.goatcounter.com/) + [netlify](https://app.netlify.com/sites/userexedotme/)
 
 
 *Some links above are affiliate links :)*
