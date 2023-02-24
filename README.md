@@ -1,3 +1,8 @@
+
+> **Warning**
+>
+> This is my old site! Check out my new one: [mrhappyma/site](https://github.com/mrhappyma/site)
+
 # userexedotme
 my *fun* website
 
